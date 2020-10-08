@@ -1,5 +1,5 @@
 {
     "scripts": {
-    "start": "node bucket-list-adventure.js"
+    "start": "node app.js"
   }
 }
